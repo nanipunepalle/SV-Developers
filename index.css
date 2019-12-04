@@ -1,0 +1,47 @@
+body{
+    font-family: 'Libre Baskerville', serif;
+    background-image: url("dark2.jpg ");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    background-size: auto;
+    opacity: 1;
+}
+.navigate{
+    border: 1px solid black;
+    margin :0px;
+    margin-top: 5px;
+    opacity-: 0.5;
+    background: rgba(18, 12, 32, 0.5);
+    position: fixed;
+    width: 100%;
+}
+a:hover{
+    background-color:rgba(68, 18, 41, 0.5);
+  }
+.caption{
+    text-align: center;  
+}
+.row1{
+    border: 1px solid black;
+    background: rgba(18, 12, 32, 0.5);
+    margin :25px;
+
+}
+.single-service{
+    padding: 20px;
+}
+.service-icon{
+    padding-left: 60px;
+    padding-bottom: 40px;
+}
+.service-content{
+    color: whitesmoke;
+}
+.slideshow{
+    align-content: center;
+    text-align: center;
+    align-items: center;
+    align-self: auto;
+}
+
